@@ -1,0 +1,1 @@
+#Criando um projeto do zero usando dotnet com edy  e evellyn, fazendo uma lanchonete.
