@@ -1,0 +1,15 @@
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\bin\Debug\net6.0\Lanchonete.exe
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\bin\Debug\net6.0\Lanchonete.deps.json
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\bin\Debug\net6.0\Lanchonete.runtimeconfig.json
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\bin\Debug\net6.0\Lanchonete.dll
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\bin\Debug\net6.0\Lanchonete.pdb
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\Lanchonete.AssemblyInfoInputs.cache
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\Lanchonete.AssemblyInfo.cs
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\Lanchonete.dll
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\refint\Lanchonete.dll
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\Lanchonete.pdb
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\Lanchonete.genruntimeconfig.cache
+C:\Users\DSVE\OneDrive - GFT Technologies SE\Desktop\TreinoGit\AtividadeIrmaos\Lanchonete\obj\Debug\net6.0\ref\Lanchonete.dll
